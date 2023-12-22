@@ -1,0 +1,14 @@
+C:\Home2023\DOP\adstest\bin\Debug\net8.0\adstest.exe
+C:\Home2023\DOP\adstest\bin\Debug\net8.0\adstest.deps.json
+C:\Home2023\DOP\adstest\bin\Debug\net8.0\adstest.runtimeconfig.json
+C:\Home2023\DOP\adstest\bin\Debug\net8.0\adstest.dll
+C:\Home2023\DOP\adstest\bin\Debug\net8.0\adstest.pdb
+C:\Home2023\DOP\adstest\obj\Debug\net8.0\adstest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Home2023\DOP\adstest\obj\Debug\net8.0\adstest.AssemblyInfoInputs.cache
+C:\Home2023\DOP\adstest\obj\Debug\net8.0\adstest.AssemblyInfo.cs
+C:\Home2023\DOP\adstest\obj\Debug\net8.0\adstest.csproj.CoreCompileInputs.cache
+C:\Home2023\DOP\adstest\obj\Debug\net8.0\adstest.dll
+C:\Home2023\DOP\adstest\obj\Debug\net8.0\refint\adstest.dll
+C:\Home2023\DOP\adstest\obj\Debug\net8.0\adstest.pdb
+C:\Home2023\DOP\adstest\obj\Debug\net8.0\adstest.genruntimeconfig.cache
+C:\Home2023\DOP\adstest\obj\Debug\net8.0\ref\adstest.dll
